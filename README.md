@@ -1,5 +1,5 @@
 # Redux Practice
-I followed a tutorial in youtube for my redux practice.
+I followed a tutorial in youtube for my redux practice. <br/>
 Its a small app when you can deposit money and withdraw money.
 
 # Getting Started with Create React App
